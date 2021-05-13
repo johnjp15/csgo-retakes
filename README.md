@@ -1,6 +1,13 @@
 csgo-retakes
 =============
 
+----
+
+# FORKED FROM https://github.com/splewis/csgo-retakes
+
+----
+
+
 [![Build status](http://ci.splewis.net/job/csgo-retakes/badge/icon)](http://ci.splewis.net/job/csgo-retakes/)
 [![GitHub Downloads](https://img.shields.io/github/downloads/splewis/csgo-retakes/total.svg?style=flat-square&label=Downloads)](https://github.com/splewis/csgo-retakes/releases/latest)
 
